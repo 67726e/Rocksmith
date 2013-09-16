@@ -1,0 +1,969 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song>
+  <title>Steh auf, wenn du am Boden bis</title>
+  <arrangement>PART REAL_GUITAR_22</arrangement>
+  <part>1</part>
+  <offset>0.000</offset>
+  <songLength>233.508</songLength>
+  <lastConversionDateTime>9-13-13 8:40</lastConversionDateTime>
+  <startBeat>0.000</startBeat>
+  <averageTempo>99.256</averageTempo>
+  <tuning string0="0" string1="0" string2="0" string3="0" string4="0" string5="0" />
+  <artistName>Die Toten Hosen</artistName>
+  <albumName>Reich &amp; Sexy II: Die fetten Ja</albumName>
+  <albumYear>2002</albumYear>
+  <arrangementProperties represent="1" standardTuning="1" nonStandardChords="0" barreChords="0" powerChords="1" dropDPower="0" openChords="1" fingerPicking="0" pickDirection="0" doubleStops="1" palmMutes="1" harmonics="0" pinchHarmonics="0" hopo="0" tremolo="0" slides="1" unpitchedSlides="0" bends="0" tapping="0" vibrato="0" fretHandMutes="0" slapPop="0" twoFingerPicking="0" fifthsAndOctaves="0" syncopation="0" bassPick="0" />
+  <phrases count="10">
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Intro" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Verse 1" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Verse 2" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Bridge" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Verse 3" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Guitar Solo" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Interlude" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Chorus" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="Outro" solo="0"/>
+    <phrase disparity="0" ignore="0" maxDifficulty="0" name="END" solo="0"/>
+  </phrases>
+  <phraseIterations count="13">
+    <phraseIteration time="0.000" phraseId="0"/>
+    <phraseIteration time="9.697" phraseId="1"/>
+    <phraseIteration time="31.515" phraseId="2"/>
+    <phraseIteration time="53.333" phraseId="3"/>
+    <phraseIteration time="72.727" phraseId="7"/>
+    <phraseIteration time="87.273" phraseId="6"/>
+    <phraseIteration time="96.970" phraseId="4"/>
+    <phraseIteration time="138.182" phraseId="7"/>
+    <phraseIteration time="152.727" phraseId="5"/>
+    <phraseIteration time="172.121" phraseId="6"/>
+    <phraseIteration time="186.666" phraseId="7"/>
+    <phraseIteration time="215.757" phraseId="8"/>
+    <phraseIteration time="230.909" phraseId="9"/>
+  </phraseIterations>
+  <linkedDiffs count="0"/>
+  <phraseProperties count="0"/>
+  <chordTemplates count="10">
+    <chordTemplate chordName="Asus2" finger0="-1" finger1="1" finger2="2" finger3="3" finger4="-1" finger5="-1" fret0="-1" fret1="2" fret2="2" fret3="2" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="F#5" finger0="1" finger1="2" finger2="3" finger3="-1" finger4="-1" finger5="-1" fret0="2" fret1="4" fret2="4" fret3="-1" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="F#5" finger0="1" finger1="2" finger2="-1" finger3="-1" finger4="-1" finger5="-1" fret0="2" fret1="4" fret2="-1" fret3="-1" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="A5" finger0="-1" finger1="-1" finger2="1" finger3="-1" finger4="-1" finger5="-1" fret0="-1" fret1="0" fret2="2" fret3="-1" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="B5" finger0="-1" finger1="1" finger2="2" finger3="-1" finger4="-1" finger5="-1" fret0="-1" fret1="2" fret2="4" fret3="-1" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="C#5" finger0="-1" finger1="1" finger2="2" finger3="3" finger4="-1" finger5="-1" fret0="-1" fret1="4" fret2="6" fret3="6" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="G#5" finger0="1" finger1="2" finger2="3" finger3="-1" finger4="-1" finger5="-1" fret0="4" fret1="6" fret2="6" fret3="-1" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="A5" finger0="-1" finger1="-1" finger2="1" finger3="2" finger4="-1" finger5="-1" fret0="-1" fret1="0" fret2="2" fret3="2" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="B5" finger0="-1" finger1="1" finger2="2" finger3="3" finger4="-1" finger5="-1" fret0="-1" fret1="2" fret2="4" fret3="4" fret4="-1" fret5="-1"/>
+    <chordTemplate chordName="E" finger0="-1" finger1="1" finger2="2" finger3="3" finger4="-1" finger5="-1" fret0="-1" fret1="2" fret2="2" fret3="1" fret4="-1" fret5="-1"/>
+  </chordTemplates>
+  <fretHandMuteTemplates count="0"/>
+  <ebeats count="388">
+    <ebeat time="0.000" measure="1"/>
+    <ebeat time="0.606" measure="-1"/>
+    <ebeat time="1.212" measure="-1"/>
+    <ebeat time="1.818" measure="-1"/>
+    <ebeat time="2.424" measure="2"/>
+    <ebeat time="3.030" measure="-1"/>
+    <ebeat time="3.636" measure="-1"/>
+    <ebeat time="4.242" measure="-1"/>
+    <ebeat time="4.848" measure="3"/>
+    <ebeat time="5.455" measure="-1"/>
+    <ebeat time="6.061" measure="-1"/>
+    <ebeat time="6.667" measure="-1"/>
+    <ebeat time="7.273" measure="4"/>
+    <ebeat time="7.879" measure="-1"/>
+    <ebeat time="8.485" measure="-1"/>
+    <ebeat time="9.091" measure="-1"/>
+    <ebeat time="9.697" measure="5"/>
+    <ebeat time="10.303" measure="-1"/>
+    <ebeat time="10.909" measure="-1"/>
+    <ebeat time="11.515" measure="-1"/>
+    <ebeat time="12.121" measure="6"/>
+    <ebeat time="12.727" measure="-1"/>
+    <ebeat time="13.333" measure="-1"/>
+    <ebeat time="13.939" measure="-1"/>
+    <ebeat time="14.545" measure="7"/>
+    <ebeat time="15.152" measure="-1"/>
+    <ebeat time="15.758" measure="-1"/>
+    <ebeat time="16.364" measure="-1"/>
+    <ebeat time="16.970" measure="8"/>
+    <ebeat time="17.576" measure="-1"/>
+    <ebeat time="18.182" measure="-1"/>
+    <ebeat time="18.788" measure="-1"/>
+    <ebeat time="19.394" measure="9"/>
+    <ebeat time="20.000" measure="-1"/>
+    <ebeat time="20.606" measure="-1"/>
+    <ebeat time="21.212" measure="-1"/>
+    <ebeat time="21.818" measure="10"/>
+    <ebeat time="22.424" measure="-1"/>
+    <ebeat time="23.030" measure="-1"/>
+    <ebeat time="23.636" measure="-1"/>
+    <ebeat time="24.242" measure="11"/>
+    <ebeat time="24.848" measure="-1"/>
+    <ebeat time="25.455" measure="-1"/>
+    <ebeat time="26.061" measure="-1"/>
+    <ebeat time="26.667" measure="12"/>
+    <ebeat time="27.273" measure="-1"/>
+    <ebeat time="27.879" measure="-1"/>
+    <ebeat time="28.485" measure="-1"/>
+    <ebeat time="29.091" measure="13"/>
+    <ebeat time="29.697" measure="-1"/>
+    <ebeat time="30.303" measure="-1"/>
+    <ebeat time="30.909" measure="-1"/>
+    <ebeat time="31.515" measure="14"/>
+    <ebeat time="32.121" measure="-1"/>
+    <ebeat time="32.727" measure="-1"/>
+    <ebeat time="33.333" measure="-1"/>
+    <ebeat time="33.939" measure="15"/>
+    <ebeat time="34.545" measure="-1"/>
+    <ebeat time="35.151" measure="-1"/>
+    <ebeat time="35.758" measure="-1"/>
+    <ebeat time="36.364" measure="16"/>
+    <ebeat time="36.970" measure="-1"/>
+    <ebeat time="37.576" measure="-1"/>
+    <ebeat time="38.182" measure="-1"/>
+    <ebeat time="38.788" measure="17"/>
+    <ebeat time="39.394" measure="-1"/>
+    <ebeat time="40.000" measure="-1"/>
+    <ebeat time="40.606" measure="-1"/>
+    <ebeat time="41.212" measure="18"/>
+    <ebeat time="41.818" measure="-1"/>
+    <ebeat time="42.424" measure="-1"/>
+    <ebeat time="43.030" measure="-1"/>
+    <ebeat time="43.636" measure="19"/>
+    <ebeat time="44.242" measure="-1"/>
+    <ebeat time="44.848" measure="-1"/>
+    <ebeat time="45.455" measure="-1"/>
+    <ebeat time="46.061" measure="20"/>
+    <ebeat time="46.667" measure="-1"/>
+    <ebeat time="47.273" measure="-1"/>
+    <ebeat time="47.879" measure="-1"/>
+    <ebeat time="48.485" measure="21"/>
+    <ebeat time="49.091" measure="-1"/>
+    <ebeat time="49.697" measure="-1"/>
+    <ebeat time="50.303" measure="-1"/>
+    <ebeat time="50.909" measure="22"/>
+    <ebeat time="51.515" measure="-1"/>
+    <ebeat time="52.121" measure="-1"/>
+    <ebeat time="52.727" measure="-1"/>
+    <ebeat time="53.333" measure="23"/>
+    <ebeat time="53.939" measure="-1"/>
+    <ebeat time="54.545" measure="-1"/>
+    <ebeat time="55.151" measure="-1"/>
+    <ebeat time="55.758" measure="24"/>
+    <ebeat time="56.364" measure="-1"/>
+    <ebeat time="56.970" measure="-1"/>
+    <ebeat time="57.576" measure="-1"/>
+    <ebeat time="58.182" measure="25"/>
+    <ebeat time="58.788" measure="-1"/>
+    <ebeat time="59.394" measure="-1"/>
+    <ebeat time="60.000" measure="-1"/>
+    <ebeat time="60.606" measure="26"/>
+    <ebeat time="61.212" measure="-1"/>
+    <ebeat time="61.818" measure="-1"/>
+    <ebeat time="62.424" measure="-1"/>
+    <ebeat time="63.030" measure="27"/>
+    <ebeat time="63.636" measure="-1"/>
+    <ebeat time="64.242" measure="-1"/>
+    <ebeat time="64.848" measure="-1"/>
+    <ebeat time="65.454" measure="28"/>
+    <ebeat time="66.061" measure="-1"/>
+    <ebeat time="66.667" measure="-1"/>
+    <ebeat time="67.273" measure="-1"/>
+    <ebeat time="67.879" measure="29"/>
+    <ebeat time="68.485" measure="-1"/>
+    <ebeat time="69.091" measure="-1"/>
+    <ebeat time="69.697" measure="-1"/>
+    <ebeat time="70.303" measure="30"/>
+    <ebeat time="70.909" measure="-1"/>
+    <ebeat time="71.515" measure="-1"/>
+    <ebeat time="72.121" measure="-1"/>
+    <ebeat time="72.727" measure="31"/>
+    <ebeat time="73.333" measure="-1"/>
+    <ebeat time="73.939" measure="-1"/>
+    <ebeat time="74.545" measure="-1"/>
+    <ebeat time="75.151" measure="32"/>
+    <ebeat time="75.758" measure="-1"/>
+    <ebeat time="76.364" measure="-1"/>
+    <ebeat time="76.970" measure="-1"/>
+    <ebeat time="77.576" measure="33"/>
+    <ebeat time="78.182" measure="-1"/>
+    <ebeat time="78.788" measure="-1"/>
+    <ebeat time="79.394" measure="-1"/>
+    <ebeat time="80.000" measure="34"/>
+    <ebeat time="80.606" measure="-1"/>
+    <ebeat time="81.212" measure="-1"/>
+    <ebeat time="81.818" measure="-1"/>
+    <ebeat time="82.424" measure="35"/>
+    <ebeat time="83.030" measure="-1"/>
+    <ebeat time="83.636" measure="-1"/>
+    <ebeat time="84.242" measure="-1"/>
+    <ebeat time="84.848" measure="36"/>
+    <ebeat time="85.454" measure="-1"/>
+    <ebeat time="86.061" measure="-1"/>
+    <ebeat time="86.667" measure="-1"/>
+    <ebeat time="87.273" measure="37"/>
+    <ebeat time="87.879" measure="-1"/>
+    <ebeat time="88.485" measure="-1"/>
+    <ebeat time="89.091" measure="-1"/>
+    <ebeat time="89.697" measure="38"/>
+    <ebeat time="90.303" measure="-1"/>
+    <ebeat time="90.909" measure="-1"/>
+    <ebeat time="91.515" measure="-1"/>
+    <ebeat time="92.121" measure="39"/>
+    <ebeat time="92.727" measure="-1"/>
+    <ebeat time="93.333" measure="-1"/>
+    <ebeat time="93.939" measure="-1"/>
+    <ebeat time="94.545" measure="40"/>
+    <ebeat time="95.151" measure="-1"/>
+    <ebeat time="95.757" measure="-1"/>
+    <ebeat time="96.364" measure="-1"/>
+    <ebeat time="96.970" measure="41"/>
+    <ebeat time="97.576" measure="-1"/>
+    <ebeat time="98.182" measure="-1"/>
+    <ebeat time="98.788" measure="-1"/>
+    <ebeat time="99.394" measure="42"/>
+    <ebeat time="100.000" measure="-1"/>
+    <ebeat time="100.606" measure="-1"/>
+    <ebeat time="101.212" measure="-1"/>
+    <ebeat time="101.818" measure="43"/>
+    <ebeat time="102.424" measure="-1"/>
+    <ebeat time="103.030" measure="-1"/>
+    <ebeat time="103.636" measure="-1"/>
+    <ebeat time="104.242" measure="44"/>
+    <ebeat time="104.848" measure="-1"/>
+    <ebeat time="105.454" measure="-1"/>
+    <ebeat time="106.061" measure="-1"/>
+    <ebeat time="106.667" measure="45"/>
+    <ebeat time="107.273" measure="-1"/>
+    <ebeat time="107.879" measure="-1"/>
+    <ebeat time="108.485" measure="-1"/>
+    <ebeat time="109.091" measure="46"/>
+    <ebeat time="109.697" measure="-1"/>
+    <ebeat time="110.303" measure="-1"/>
+    <ebeat time="110.909" measure="-1"/>
+    <ebeat time="111.515" measure="47"/>
+    <ebeat time="112.121" measure="-1"/>
+    <ebeat time="112.727" measure="-1"/>
+    <ebeat time="113.333" measure="-1"/>
+    <ebeat time="113.939" measure="48"/>
+    <ebeat time="114.545" measure="-1"/>
+    <ebeat time="115.151" measure="-1"/>
+    <ebeat time="115.757" measure="-1"/>
+    <ebeat time="116.364" measure="49"/>
+    <ebeat time="116.970" measure="-1"/>
+    <ebeat time="117.576" measure="-1"/>
+    <ebeat time="118.182" measure="-1"/>
+    <ebeat time="118.788" measure="50"/>
+    <ebeat time="119.394" measure="-1"/>
+    <ebeat time="120.000" measure="-1"/>
+    <ebeat time="120.606" measure="-1"/>
+    <ebeat time="121.212" measure="51"/>
+    <ebeat time="121.818" measure="-1"/>
+    <ebeat time="122.424" measure="-1"/>
+    <ebeat time="123.030" measure="-1"/>
+    <ebeat time="123.636" measure="52"/>
+    <ebeat time="124.242" measure="-1"/>
+    <ebeat time="124.848" measure="-1"/>
+    <ebeat time="125.454" measure="-1"/>
+    <ebeat time="126.060" measure="53"/>
+    <ebeat time="126.667" measure="-1"/>
+    <ebeat time="127.273" measure="-1"/>
+    <ebeat time="127.879" measure="-1"/>
+    <ebeat time="128.485" measure="54"/>
+    <ebeat time="129.091" measure="-1"/>
+    <ebeat time="129.697" measure="-1"/>
+    <ebeat time="130.303" measure="-1"/>
+    <ebeat time="130.909" measure="55"/>
+    <ebeat time="131.515" measure="-1"/>
+    <ebeat time="132.121" measure="-1"/>
+    <ebeat time="132.727" measure="-1"/>
+    <ebeat time="133.333" measure="56"/>
+    <ebeat time="133.939" measure="-1"/>
+    <ebeat time="134.545" measure="-1"/>
+    <ebeat time="135.151" measure="-1"/>
+    <ebeat time="135.757" measure="57"/>
+    <ebeat time="136.364" measure="-1"/>
+    <ebeat time="136.970" measure="-1"/>
+    <ebeat time="137.576" measure="-1"/>
+    <ebeat time="138.182" measure="58"/>
+    <ebeat time="138.788" measure="-1"/>
+    <ebeat time="139.394" measure="-1"/>
+    <ebeat time="140.000" measure="-1"/>
+    <ebeat time="140.606" measure="59"/>
+    <ebeat time="141.212" measure="-1"/>
+    <ebeat time="141.818" measure="-1"/>
+    <ebeat time="142.424" measure="-1"/>
+    <ebeat time="143.030" measure="60"/>
+    <ebeat time="143.636" measure="-1"/>
+    <ebeat time="144.242" measure="-1"/>
+    <ebeat time="144.848" measure="-1"/>
+    <ebeat time="145.454" measure="61"/>
+    <ebeat time="146.060" measure="-1"/>
+    <ebeat time="146.667" measure="-1"/>
+    <ebeat time="147.273" measure="-1"/>
+    <ebeat time="147.879" measure="62"/>
+    <ebeat time="148.485" measure="-1"/>
+    <ebeat time="149.091" measure="-1"/>
+    <ebeat time="149.697" measure="-1"/>
+    <ebeat time="150.303" measure="63"/>
+    <ebeat time="150.909" measure="-1"/>
+    <ebeat time="151.515" measure="-1"/>
+    <ebeat time="152.121" measure="-1"/>
+    <ebeat time="152.727" measure="64"/>
+    <ebeat time="153.333" measure="-1"/>
+    <ebeat time="153.939" measure="-1"/>
+    <ebeat time="154.545" measure="-1"/>
+    <ebeat time="155.151" measure="65"/>
+    <ebeat time="155.757" measure="-1"/>
+    <ebeat time="156.363" measure="-1"/>
+    <ebeat time="156.970" measure="-1"/>
+    <ebeat time="157.576" measure="66"/>
+    <ebeat time="158.182" measure="-1"/>
+    <ebeat time="158.788" measure="-1"/>
+    <ebeat time="159.394" measure="-1"/>
+    <ebeat time="160.000" measure="67"/>
+    <ebeat time="160.606" measure="-1"/>
+    <ebeat time="161.212" measure="-1"/>
+    <ebeat time="161.818" measure="-1"/>
+    <ebeat time="162.424" measure="68"/>
+    <ebeat time="163.030" measure="-1"/>
+    <ebeat time="163.636" measure="-1"/>
+    <ebeat time="164.242" measure="-1"/>
+    <ebeat time="164.848" measure="69"/>
+    <ebeat time="165.454" measure="-1"/>
+    <ebeat time="166.060" measure="-1"/>
+    <ebeat time="166.667" measure="-1"/>
+    <ebeat time="167.273" measure="70"/>
+    <ebeat time="167.879" measure="-1"/>
+    <ebeat time="168.485" measure="-1"/>
+    <ebeat time="169.091" measure="-1"/>
+    <ebeat time="169.697" measure="71"/>
+    <ebeat time="170.303" measure="-1"/>
+    <ebeat time="170.909" measure="-1"/>
+    <ebeat time="171.515" measure="-1"/>
+    <ebeat time="172.121" measure="72"/>
+    <ebeat time="172.727" measure="-1"/>
+    <ebeat time="173.333" measure="-1"/>
+    <ebeat time="173.939" measure="-1"/>
+    <ebeat time="174.545" measure="73"/>
+    <ebeat time="175.151" measure="-1"/>
+    <ebeat time="175.757" measure="-1"/>
+    <ebeat time="176.363" measure="-1"/>
+    <ebeat time="176.970" measure="74"/>
+    <ebeat time="177.576" measure="-1"/>
+    <ebeat time="178.182" measure="-1"/>
+    <ebeat time="178.788" measure="-1"/>
+    <ebeat time="179.394" measure="75"/>
+    <ebeat time="180.000" measure="-1"/>
+    <ebeat time="180.606" measure="-1"/>
+    <ebeat time="181.212" measure="-1"/>
+    <ebeat time="181.818" measure="76"/>
+    <ebeat time="182.424" measure="-1"/>
+    <ebeat time="183.030" measure="-1"/>
+    <ebeat time="183.636" measure="-1"/>
+    <ebeat time="184.242" measure="77"/>
+    <ebeat time="184.848" measure="-1"/>
+    <ebeat time="185.454" measure="-1"/>
+    <ebeat time="186.060" measure="-1"/>
+    <ebeat time="186.666" measure="78"/>
+    <ebeat time="187.273" measure="-1"/>
+    <ebeat time="187.879" measure="-1"/>
+    <ebeat time="188.485" measure="-1"/>
+    <ebeat time="189.091" measure="79"/>
+    <ebeat time="189.697" measure="-1"/>
+    <ebeat time="190.303" measure="-1"/>
+    <ebeat time="190.909" measure="-1"/>
+    <ebeat time="191.515" measure="80"/>
+    <ebeat time="192.121" measure="-1"/>
+    <ebeat time="192.727" measure="-1"/>
+    <ebeat time="193.333" measure="-1"/>
+    <ebeat time="193.939" measure="81"/>
+    <ebeat time="194.545" measure="-1"/>
+    <ebeat time="195.151" measure="-1"/>
+    <ebeat time="195.757" measure="-1"/>
+    <ebeat time="196.363" measure="82"/>
+    <ebeat time="196.970" measure="-1"/>
+    <ebeat time="197.576" measure="-1"/>
+    <ebeat time="198.182" measure="-1"/>
+    <ebeat time="198.788" measure="83"/>
+    <ebeat time="199.394" measure="-1"/>
+    <ebeat time="200.000" measure="-1"/>
+    <ebeat time="200.606" measure="-1"/>
+    <ebeat time="201.212" measure="84"/>
+    <ebeat time="201.818" measure="-1"/>
+    <ebeat time="202.424" measure="-1"/>
+    <ebeat time="203.030" measure="-1"/>
+    <ebeat time="203.636" measure="85"/>
+    <ebeat time="204.242" measure="-1"/>
+    <ebeat time="204.848" measure="-1"/>
+    <ebeat time="205.454" measure="-1"/>
+    <ebeat time="206.060" measure="86"/>
+    <ebeat time="206.666" measure="-1"/>
+    <ebeat time="207.273" measure="-1"/>
+    <ebeat time="207.879" measure="-1"/>
+    <ebeat time="208.485" measure="87"/>
+    <ebeat time="209.091" measure="-1"/>
+    <ebeat time="209.697" measure="-1"/>
+    <ebeat time="210.303" measure="-1"/>
+    <ebeat time="210.909" measure="88"/>
+    <ebeat time="211.515" measure="-1"/>
+    <ebeat time="212.121" measure="-1"/>
+    <ebeat time="212.727" measure="-1"/>
+    <ebeat time="213.333" measure="89"/>
+    <ebeat time="213.939" measure="-1"/>
+    <ebeat time="214.545" measure="-1"/>
+    <ebeat time="215.151" measure="-1"/>
+    <ebeat time="215.757" measure="90"/>
+    <ebeat time="216.363" measure="-1"/>
+    <ebeat time="216.969" measure="-1"/>
+    <ebeat time="217.576" measure="-1"/>
+    <ebeat time="218.182" measure="91"/>
+    <ebeat time="218.788" measure="-1"/>
+    <ebeat time="219.394" measure="-1"/>
+    <ebeat time="220.000" measure="-1"/>
+    <ebeat time="220.606" measure="92"/>
+    <ebeat time="221.212" measure="-1"/>
+    <ebeat time="221.818" measure="-1"/>
+    <ebeat time="222.424" measure="-1"/>
+    <ebeat time="223.030" measure="93"/>
+    <ebeat time="223.636" measure="-1"/>
+    <ebeat time="224.242" measure="-1"/>
+    <ebeat time="224.848" measure="-1"/>
+    <ebeat time="225.454" measure="94"/>
+    <ebeat time="226.060" measure="-1"/>
+    <ebeat time="226.666" measure="-1"/>
+    <ebeat time="227.273" measure="-1"/>
+    <ebeat time="227.879" measure="95"/>
+    <ebeat time="228.485" measure="-1"/>
+    <ebeat time="229.091" measure="-1"/>
+    <ebeat time="229.697" measure="-1"/>
+    <ebeat time="230.303" measure="96"/>
+    <ebeat time="230.909" measure="-1"/>
+    <ebeat time="231.515" measure="-1"/>
+    <ebeat time="232.121" measure="-1"/>
+    <ebeat time="232.727" measure="97"/>
+    <ebeat time="233.333" measure="-1"/>
+    <ebeat time="233.939" measure="-1"/>
+    <ebeat time="234.545" measure="-1"/>
+  </ebeats>
+  <sections count="2">
+    <section name="intro" number="1" startTime="0.000"/>
+    <section name="noguitar" number="1" startTime="230.909"/>
+  </sections>
+  <events count="0"/>
+  <levels count="1">
+    <level difficulty="0">
+      <notes count="0"/>
+      <chords count="307">
+        <chord time="0.000" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="1.818" chordId="0" highDensity="0" ignore="0" strum="up"/>
+        <chord time="2.424" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="4.242" chordId="4" highDensity="0" ignore="0" strum="up"/>
+        <chord time="4.848" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="6.667" chordId="0" highDensity="0" ignore="0" strum="up"/>
+        <chord time="7.273" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="9.091" chordId="4" highDensity="0" ignore="0" strum="up"/>
+        <chord time="9.697" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="12.121" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="14.545" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="16.970" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="18.182" chordId="2" highDensity="0" ignore="0" strum="up"/>
+        <chord time="19.394" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="21.818" chordId="2" highDensity="0" ignore="0" strum="up"/>
+        <chord time="24.242" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="26.667" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="29.091" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="31.515" chordId="9" highDensity="1" ignore="0" strum="up"/>
+        <chord time="33.939" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="36.364" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="38.788" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="40.000" chordId="2" highDensity="0" ignore="0" strum="up"/>
+        <chord time="41.212" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="43.636" chordId="2" highDensity="0" ignore="0" strum="up"/>
+        <chord time="46.061" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="48.485" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="50.909" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="53.333" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="55.758" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="58.182" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="60.606" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="63.030" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="65.454" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="67.879" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="69.091" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="69.697" chordId="7" highDensity="1" ignore="0" strum="up"/>
+        <chord time="70.303" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="70.707" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="70.909" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="71.313" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="71.515" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="71.919" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="72.121" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="72.324" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="72.525" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="72.727" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="73.333" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="73.939" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="74.545" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="75.151" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="75.758" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="76.364" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="76.970" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="77.576" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="78.182" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="78.788" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="79.394" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="80.000" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="80.606" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="81.212" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="81.818" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="82.424" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="83.030" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="83.636" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="84.242" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="84.848" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="85.454" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="86.061" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="86.667" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="87.273" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="87.879" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="88.485" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="89.091" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="89.697" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="90.303" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="90.909" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="91.515" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="92.121" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="92.727" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="93.333" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="93.939" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="94.545" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="95.151" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="95.757" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="96.364" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="96.970" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="99.394" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="101.818" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="104.242" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="105.454" chordId="2" highDensity="0" ignore="0" strum="up"/>
+        <chord time="106.667" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="109.091" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="111.515" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="113.939" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="116.364" chordId="9" highDensity="0" ignore="0" strum="up"/>
+        <chord time="118.788" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="121.212" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="123.636" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="126.060" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="128.485" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="130.909" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="133.333" chordId="1" highDensity="0" ignore="0" strum="up"/>
+        <chord time="134.545" chordId="7" highDensity="0" ignore="0" strum="up"/>
+        <chord time="135.151" chordId="7" highDensity="1" ignore="0" strum="up"/>
+        <chord time="135.757" chordId="8" highDensity="0" ignore="0" strum="up"/>
+        <chord time="136.162" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="136.364" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="136.767" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="136.970" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="137.373" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="137.576" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="137.778" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="137.979" chordId="8" highDensity="1" ignore="0" strum="up"/>
+        <chord time="138.182" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="138.788" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="139.394" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="140.000" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="140.606" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="141.212" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="141.818" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="142.424" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="143.030" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="143.636" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="144.242" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="144.848" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="145.454" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="146.060" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="146.667" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="147.273" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="147.879" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="148.485" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="149.091" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="149.697" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="150.303" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="150.909" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="151.515" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="152.121" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="152.727" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="153.333" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="153.939" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="154.545" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="155.151" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="155.757" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="156.363" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="156.970" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="157.576" chordId="6" highDensity="0" ignore="0" strum="down"/>
+        <chord time="158.182" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="158.788" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="159.394" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="160.000" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="160.606" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="161.212" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="161.818" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="162.424" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="163.030" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="163.636" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="164.242" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="164.848" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="165.454" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="166.060" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="166.667" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="167.273" chordId="6" highDensity="0" ignore="0" strum="down"/>
+        <chord time="167.879" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="168.485" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="169.091" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="169.697" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="170.303" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="170.909" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="171.515" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="172.121" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="172.323" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="172.525" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="172.727" chordId="1" highDensity="0" ignore="0" strum="down"/>
+        <chord time="172.930" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="173.131" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="173.333" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="173.536" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="173.737" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="173.939" chordId="1" highDensity="0" ignore="0" strum="down"/>
+        <chord time="174.142" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="174.343" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="174.545" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="174.748" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="174.949" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="175.151" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="175.354" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="175.555" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="175.757" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="175.960" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="176.161" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="176.363" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="176.566" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="176.768" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="176.970" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="177.172" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="177.373" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="177.576" chordId="1" highDensity="0" ignore="0" strum="down"/>
+        <chord time="177.778" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="177.979" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="178.182" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="178.384" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="178.585" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="178.788" chordId="1" highDensity="0" ignore="0" strum="down"/>
+        <chord time="178.990" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="179.191" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="179.394" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="179.596" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="179.797" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="180.000" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="180.202" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="180.403" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="180.606" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="180.808" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="181.009" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="181.212" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="181.414" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="181.616" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="181.818" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="182.020" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="182.222" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="182.424" chordId="1" highDensity="0" ignore="0" strum="down"/>
+        <chord time="182.626" chordId="2" highDensity="0" ignore="0" strum="down"/>
+        <chord time="182.828" chordId="2" highDensity="1" ignore="0" strum="down"/>
+        <chord time="183.030" chordId="3" highDensity="0" ignore="0" strum="down"/>
+        <chord time="183.233" chordId="3" highDensity="1" ignore="0" strum="down"/>
+        <chord time="183.434" chordId="3" highDensity="1" ignore="0" strum="down"/>
+        <chord time="183.636" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="183.839" chordId="3" highDensity="0" ignore="0" strum="down"/>
+        <chord time="184.040" chordId="3" highDensity="1" ignore="0" strum="down"/>
+        <chord time="184.242" chordId="4" highDensity="0" ignore="0" strum="down"/>
+        <chord time="184.445" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="184.646" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="184.848" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="185.051" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="185.252" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="185.454" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="185.657" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="185.858" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="186.060" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="186.263" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="186.464" chordId="4" highDensity="1" ignore="0" strum="down"/>
+        <chord time="186.666" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="187.273" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="187.879" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="188.485" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="189.091" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="189.697" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="190.303" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="190.909" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="191.515" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="192.121" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="192.727" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="193.333" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="193.939" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="194.545" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="195.151" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="195.757" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="196.363" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="196.970" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="197.576" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="198.182" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="198.788" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="199.394" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="200.000" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="200.606" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="201.212" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="201.818" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="202.424" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="203.030" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="203.636" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="204.242" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="204.848" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="205.454" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="206.060" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="206.666" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="207.273" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="207.879" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="208.485" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="209.091" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="209.697" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="210.303" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="210.909" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="211.515" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="212.121" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="212.727" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="213.333" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="213.939" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="214.545" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="215.151" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="215.757" chordId="9" highDensity="0" ignore="0" strum="down"/>
+        <chord time="216.363" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="216.969" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="217.576" chordId="9" highDensity="1" ignore="0" strum="down"/>
+        <chord time="218.182" chordId="5" highDensity="0" ignore="0" strum="down"/>
+        <chord time="218.788" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="219.394" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="220.000" chordId="5" highDensity="1" ignore="0" strum="down"/>
+        <chord time="220.606" chordId="6" highDensity="0" ignore="0" strum="down"/>
+        <chord time="221.212" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="221.818" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="222.424" chordId="6" highDensity="1" ignore="0" strum="down"/>
+        <chord time="223.030" chordId="7" highDensity="0" ignore="0" strum="down"/>
+        <chord time="223.636" chordId="7" highDensity="1" ignore="0" strum="down"/>
+        <chord time="224.242" chordId="8" highDensity="0" ignore="0" strum="down"/>
+        <chord time="224.848" chordId="8" highDensity="1" ignore="0" strum="down"/>
+        <chord time="225.454" chordId="9" highDensity="0" ignore="0" strum="down"/>
+      </chords>
+      <fretHandMutes count="0"/>
+      <anchors count="62">
+        <anchor time="0.000" fret="1"/>
+        <anchor time="1.818" fret="2"/>
+        <anchor time="2.424" fret="1"/>
+        <anchor time="4.242" fret="2"/>
+        <anchor time="4.848" fret="1"/>
+        <anchor time="6.667" fret="2"/>
+        <anchor time="7.273" fret="1"/>
+        <anchor time="9.091" fret="2"/>
+        <anchor time="9.697" fret="1"/>
+        <anchor time="12.121" fret="2"/>
+        <anchor time="14.545" fret="1"/>
+        <anchor time="16.970" fret="2"/>
+        <anchor time="29.091" fret="1"/>
+        <anchor time="31.515" fret="1"/>
+        <anchor time="33.939" fret="2"/>
+        <anchor time="36.364" fret="1"/>
+        <anchor time="38.788" fret="2"/>
+        <anchor time="50.909" fret="1"/>
+        <anchor time="53.333" fret="2"/>
+        <anchor time="72.727" fret="1"/>
+        <anchor time="75.151" fret="2"/>
+        <anchor time="77.576" fret="1"/>
+        <anchor time="80.000" fret="2"/>
+        <anchor time="82.424" fret="4"/>
+        <anchor time="84.848" fret="2"/>
+        <anchor time="87.273" fret="1"/>
+        <anchor time="96.364" fret="2"/>
+        <anchor time="96.970" fret="1"/>
+        <anchor time="99.394" fret="2"/>
+        <anchor time="101.818" fret="1"/>
+        <anchor time="104.242" fret="2"/>
+        <anchor time="116.364" fret="1"/>
+        <anchor time="118.788" fret="2"/>
+        <anchor time="138.182" fret="1"/>
+        <anchor time="140.606" fret="2"/>
+        <anchor time="143.030" fret="1"/>
+        <anchor time="145.454" fret="2"/>
+        <anchor time="147.879" fret="4"/>
+        <anchor time="150.303" fret="2"/>
+        <anchor time="152.727" fret="1"/>
+        <anchor time="155.151" fret="4"/>
+        <anchor time="160.000" fret="2"/>
+        <anchor time="162.424" fret="1"/>
+        <anchor time="164.848" fret="4"/>
+        <anchor time="169.697" fret="2"/>
+        <anchor time="172.121" fret="2"/>
+        <anchor time="186.666" fret="1"/>
+        <anchor time="189.091" fret="2"/>
+        <anchor time="191.515" fret="1"/>
+        <anchor time="193.939" fret="2"/>
+        <anchor time="196.363" fret="4"/>
+        <anchor time="198.788" fret="2"/>
+        <anchor time="201.212" fret="1"/>
+        <anchor time="203.636" fret="2"/>
+        <anchor time="206.060" fret="1"/>
+        <anchor time="208.485" fret="2"/>
+        <anchor time="210.909" fret="4"/>
+        <anchor time="213.333" fret="2"/>
+        <anchor time="215.757" fret="1"/>
+        <anchor time="218.182" fret="4"/>
+        <anchor time="223.030" fret="2"/>
+        <anchor time="225.454" fret="1"/>
+      </anchors>
+      <handShapes count="135">
+        <handShape chordId="9" endTime="1.814" startTime="0.000"/>
+        <handShape chordId="0" endTime="2.421" startTime="1.818"/>
+        <handShape chordId="9" endTime="4.239" startTime="2.424"/>
+        <handShape chordId="4" endTime="4.845" startTime="4.242"/>
+        <handShape chordId="9" endTime="6.663" startTime="4.848"/>
+        <handShape chordId="0" endTime="7.269" startTime="6.667"/>
+        <handShape chordId="9" endTime="9.087" startTime="7.273"/>
+        <handShape chordId="4" endTime="9.693" startTime="9.091"/>
+        <handShape chordId="9" endTime="12.118" startTime="9.697"/>
+        <handShape chordId="7" endTime="14.542" startTime="12.121"/>
+        <handShape chordId="9" endTime="16.966" startTime="14.545"/>
+        <handShape chordId="7" endTime="18.178" startTime="16.970"/>
+        <handShape chordId="2" endTime="19.390" startTime="18.182"/>
+        <handShape chordId="8" endTime="21.814" startTime="19.394"/>
+        <handShape chordId="2" endTime="24.239" startTime="21.818"/>
+        <handShape chordId="7" endTime="26.663" startTime="24.242"/>
+        <handShape chordId="8" endTime="29.087" startTime="26.667"/>
+        <handShape chordId="9" endTime="33.936" startTime="29.091"/>
+        <handShape chordId="7" endTime="36.360" startTime="33.939"/>
+        <handShape chordId="9" endTime="38.784" startTime="36.364"/>
+        <handShape chordId="7" endTime="39.996" startTime="38.788"/>
+        <handShape chordId="2" endTime="41.208" startTime="40.000"/>
+        <handShape chordId="8" endTime="43.633" startTime="41.212"/>
+        <handShape chordId="2" endTime="46.057" startTime="43.636"/>
+        <handShape chordId="7" endTime="48.481" startTime="46.061"/>
+        <handShape chordId="8" endTime="50.905" startTime="48.485"/>
+        <handShape chordId="9" endTime="53.330" startTime="50.909"/>
+        <handShape chordId="1" endTime="55.755" startTime="53.333"/>
+        <handShape chordId="8" endTime="58.178" startTime="55.758"/>
+        <handShape chordId="1" endTime="60.602" startTime="58.182"/>
+        <handShape chordId="8" endTime="63.027" startTime="60.606"/>
+        <handShape chordId="1" endTime="65.451" startTime="63.030"/>
+        <handShape chordId="8" endTime="67.875" startTime="65.454"/>
+        <handShape chordId="1" endTime="69.087" startTime="67.879"/>
+        <handShape chordId="7" endTime="70.299" startTime="69.091"/>
+        <handShape chordId="8" endTime="72.724" startTime="70.303"/>
+        <handShape chordId="9" endTime="75.148" startTime="72.727"/>
+        <handShape chordId="7" endTime="76.360" startTime="75.151"/>
+        <handShape chordId="8" endTime="77.572" startTime="76.364"/>
+        <handShape chordId="9" endTime="79.996" startTime="77.576"/>
+        <handShape chordId="7" endTime="81.208" startTime="80.000"/>
+        <handShape chordId="8" endTime="82.420" startTime="81.212"/>
+        <handShape chordId="5" endTime="84.845" startTime="82.424"/>
+        <handShape chordId="7" endTime="86.058" startTime="84.848"/>
+        <handShape chordId="8" endTime="87.269" startTime="86.061"/>
+        <handShape chordId="9" endTime="96.361" startTime="87.273"/>
+        <handShape chordId="4" endTime="96.814" startTime="96.364"/>
+        <handShape chordId="9" endTime="99.390" startTime="96.970"/>
+        <handShape chordId="7" endTime="101.814" startTime="99.394"/>
+        <handShape chordId="9" endTime="104.239" startTime="101.818"/>
+        <handShape chordId="7" endTime="105.451" startTime="104.242"/>
+        <handShape chordId="2" endTime="106.663" startTime="105.454"/>
+        <handShape chordId="8" endTime="109.087" startTime="106.667"/>
+        <handShape chordId="1" endTime="111.511" startTime="109.091"/>
+        <handShape chordId="7" endTime="113.936" startTime="111.515"/>
+        <handShape chordId="8" endTime="116.361" startTime="113.939"/>
+        <handShape chordId="9" endTime="118.784" startTime="116.364"/>
+        <handShape chordId="1" endTime="121.208" startTime="118.788"/>
+        <handShape chordId="8" endTime="123.633" startTime="121.212"/>
+        <handShape chordId="1" endTime="126.057" startTime="123.636"/>
+        <handShape chordId="8" endTime="128.481" startTime="126.060"/>
+        <handShape chordId="1" endTime="130.905" startTime="128.485"/>
+        <handShape chordId="8" endTime="133.330" startTime="130.909"/>
+        <handShape chordId="1" endTime="134.542" startTime="133.333"/>
+        <handShape chordId="7" endTime="135.754" startTime="134.545"/>
+        <handShape chordId="8" endTime="138.178" startTime="135.757"/>
+        <handShape chordId="9" endTime="140.602" startTime="138.182"/>
+        <handShape chordId="7" endTime="141.814" startTime="140.606"/>
+        <handShape chordId="8" endTime="143.026" startTime="141.818"/>
+        <handShape chordId="9" endTime="145.451" startTime="143.030"/>
+        <handShape chordId="7" endTime="146.664" startTime="145.454"/>
+        <handShape chordId="8" endTime="147.875" startTime="146.667"/>
+        <handShape chordId="5" endTime="150.299" startTime="147.879"/>
+        <handShape chordId="7" endTime="151.511" startTime="150.303"/>
+        <handShape chordId="8" endTime="152.723" startTime="151.515"/>
+        <handShape chordId="9" endTime="155.148" startTime="152.727"/>
+        <handShape chordId="5" endTime="157.572" startTime="155.151"/>
+        <handShape chordId="6" endTime="159.996" startTime="157.576"/>
+        <handShape chordId="7" endTime="162.420" startTime="160.000"/>
+        <handShape chordId="9" endTime="164.845" startTime="162.424"/>
+        <handShape chordId="5" endTime="167.269" startTime="164.848"/>
+        <handShape chordId="6" endTime="169.693" startTime="167.273"/>
+        <handShape chordId="7" endTime="170.905" startTime="169.697"/>
+        <handShape chordId="8" endTime="172.117" startTime="170.909"/>
+        <handShape chordId="2" endTime="172.723" startTime="172.121"/>
+        <handShape chordId="1" endTime="172.926" startTime="172.727"/>
+        <handShape chordId="2" endTime="173.936" startTime="172.930"/>
+        <handShape chordId="1" endTime="174.138" startTime="173.939"/>
+        <handShape chordId="2" endTime="174.542" startTime="174.142"/>
+        <handShape chordId="4" endTime="174.945" startTime="174.545"/>
+        <handShape chordId="8" endTime="175.148" startTime="174.949"/>
+        <handShape chordId="4" endTime="176.157" startTime="175.151"/>
+        <handShape chordId="8" endTime="176.360" startTime="176.161"/>
+        <handShape chordId="4" endTime="176.967" startTime="176.363"/>
+        <handShape chordId="2" endTime="177.572" startTime="176.970"/>
+        <handShape chordId="1" endTime="177.774" startTime="177.576"/>
+        <handShape chordId="2" endTime="178.784" startTime="177.778"/>
+        <handShape chordId="1" endTime="178.986" startTime="178.788"/>
+        <handShape chordId="2" endTime="179.390" startTime="178.990"/>
+        <handShape chordId="4" endTime="179.794" startTime="179.394"/>
+        <handShape chordId="8" endTime="179.996" startTime="179.797"/>
+        <handShape chordId="4" endTime="181.006" startTime="180.000"/>
+        <handShape chordId="8" endTime="181.208" startTime="181.009"/>
+        <handShape chordId="4" endTime="181.814" startTime="181.212"/>
+        <handShape chordId="2" endTime="182.420" startTime="181.818"/>
+        <handShape chordId="1" endTime="182.623" startTime="182.424"/>
+        <handShape chordId="2" endTime="183.026" startTime="182.626"/>
+        <handShape chordId="3" endTime="183.632" startTime="183.030"/>
+        <handShape chordId="7" endTime="183.835" startTime="183.636"/>
+        <handShape chordId="3" endTime="184.239" startTime="183.839"/>
+        <handShape chordId="4" endTime="186.663" startTime="184.242"/>
+        <handShape chordId="9" endTime="189.087" startTime="186.666"/>
+        <handShape chordId="7" endTime="190.299" startTime="189.091"/>
+        <handShape chordId="8" endTime="191.511" startTime="190.303"/>
+        <handShape chordId="9" endTime="193.936" startTime="191.515"/>
+        <handShape chordId="7" endTime="195.148" startTime="193.939"/>
+        <handShape chordId="8" endTime="196.360" startTime="195.151"/>
+        <handShape chordId="5" endTime="198.784" startTime="196.363"/>
+        <handShape chordId="7" endTime="199.996" startTime="198.788"/>
+        <handShape chordId="8" endTime="201.208" startTime="200.000"/>
+        <handShape chordId="9" endTime="203.632" startTime="201.212"/>
+        <handShape chordId="7" endTime="204.845" startTime="203.636"/>
+        <handShape chordId="8" endTime="206.057" startTime="204.848"/>
+        <handShape chordId="9" endTime="208.481" startTime="206.060"/>
+        <handShape chordId="7" endTime="209.693" startTime="208.485"/>
+        <handShape chordId="8" endTime="210.905" startTime="209.697"/>
+        <handShape chordId="5" endTime="213.329" startTime="210.909"/>
+        <handShape chordId="7" endTime="214.542" startTime="213.333"/>
+        <handShape chordId="8" endTime="215.754" startTime="214.545"/>
+        <handShape chordId="9" endTime="218.178" startTime="215.757"/>
+        <handShape chordId="5" endTime="220.602" startTime="218.182"/>
+        <handShape chordId="6" endTime="223.026" startTime="220.606"/>
+        <handShape chordId="7" endTime="224.239" startTime="223.030"/>
+        <handShape chordId="8" endTime="225.451" startTime="224.242"/>
+        <handShape chordId="9" endTime="230.303" startTime="225.454"/>
+      </handShapes>
+    </level>
+  </levels>
+</song>

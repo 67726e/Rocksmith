@@ -1,0 +1,58 @@
+{
+  "Entries": [
+    {
+      "BlockAsset": "urn:emergent-world:DLC_Tone_Rammstein_Dist",
+      "Description": "$[-1] ",
+      "ExclusiveBuild": null,
+      "IsDLC": true,
+      "IsPreviewOnlyItem": false,
+      "Key": "Rammstein_Dist",
+      "Name": "Rammstein Dist",
+      "PedalList": {
+        "Amp": {
+          "PedalKey": "Amp_DC58",
+          "KnobValues": {
+            "Amp_DC58_Gain": 12.0,
+            "Amp_DC58_Tone": 38.0,
+            "Amp_DC58_Lo": 64.0,
+            "Amp_DC58_Hi": 60.0
+          }
+        },
+        "Cabinet": {
+          "PedalKey": "Cab_2X12_DC58_Tube_Cone",
+          "KnobValues": {}
+        },
+        "PrePedal2": {
+          "PedalKey": "Pedal_EQ6",
+          "KnobValues": {
+            "Pedal_EQ6_1600": 0.0,
+            "Pedal_EQ6_3200": -6.0,
+            "Pedal_EQ6_100": 0.0,
+            "Pedal_EQ6_200": 7.0,
+            "Pedal_EQ6_400": 0.0,
+            "Pedal_EQ6_800": 3.0
+          }
+        },
+        "PrePedal3": {
+          "PedalKey": "Pedal_Distortion",
+          "KnobValues": {
+            "Pedal_Distortion_Distortion": 66.0,
+            "Pedal_Distortion_Tone": 66.0
+          }
+        },
+        "PrePedal1": {
+          "PedalKey": "Pedal_SuperDrive",
+          "KnobValues": {
+            "Pedal_SuperDrive_Drive": 88.0,
+            "Pedal_SuperDrive_Tone": 80.0
+          }
+        }
+      },
+      "PersistentID": "3586233c16f443cc955f3d0f079c71e3",
+      "UnlockKey": null,
+      "Volume": -12.0
+    }
+  ],
+  "ModelName": "GRTonePreset",
+  "IterationVersion": 2
+}
