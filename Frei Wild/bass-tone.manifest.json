@@ -1,0 +1,37 @@
+{
+  "Entries": [
+    {
+      "BlockAsset": "urn:emergent-world:DLC_Tone_FrWBass",
+      "Description": "$[-1] ",
+      "ExclusiveBuild": null,
+      "IsDLC": true,
+      "IsPreviewOnlyItem": false,
+      "Key": "FrWBass",
+      "Name": "FrWBass",
+      "PedalList": {
+        "Amp": {
+          "PedalKey": "Amp_Bass_NPN500",
+          "KnobValues": {
+            "Amp_Bass_NPN500_Volume": 20.0,
+            "Amp_Bass_NPN500_LoCut": 1.0,
+            "Amp_Bass_NPN500_MidContour": 1.0,
+            "Amp_Bass_NPN500_HiBoost": 1.0,
+            "Amp_Bass_NPN500_LoMid": 18.0,
+            "Amp_Bass_NPN500_HiMid": 60.0,
+            "Amp_Bass_NPN500_Low": 40.0,
+            "Amp_Bass_NPN500_High": 100.0
+          }
+        },
+        "Cabinet": {
+          "PedalKey": "Cab_2X12_Fusion_57_Edge",
+          "KnobValues": {}
+        }
+      },
+      "PersistentID": "66cfd1ec1af44458852a7ed85004d479",
+      "UnlockKey": null,
+      "Volume": -12.0
+    }
+  ],
+  "ModelName": "GRTonePreset",
+  "IterationVersion": 2
+}

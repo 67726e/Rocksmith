@@ -1,0 +1,45 @@
+{
+  "Entries": [
+    {
+      "BlockAsset": "urn:emergent-world:DLC_Tone_Tired_of_Living_Like_a_Bass_Man",
+      "Description": "$[-1] ",
+      "ExclusiveBuild": null,
+      "IsDLC": true,
+      "IsPreviewOnlyItem": false,
+      "Key": "Tired_of_Living_Like_a_Bass_Man",
+      "Name": "Tired of Living Like a Bass Man",
+      "PedalList": {
+        "Cabinet": {
+          "PedalKey": "Cab_Bass_1X15_Modern_Tube_Cone",
+          "KnobValues": {}
+        },
+        "Amp": {
+          "PedalKey": "Amp_Bass_TIQ500",
+          "KnobValues": {
+            "Amp_Bass_TIQ500_1300": 4.0,
+            "Amp_Bass_TIQ500_High": 75.0,
+            "Amp_Bass_TIQ500_340": 3.0,
+            "Amp_Bass_TIQ500_2600": 2.0,
+            "Amp_Bass_TIQ500_Middle": 77.0,
+            "Amp_Bass_TIQ500_Drive": 35.0,
+            "Amp_Bass_TIQ500_180": 1.0,
+            "Amp_Bass_TIQ500_Bass": 90.0,
+            "Amp_Bass_TIQ500_Compression": 50.0
+          }
+        },
+        "PrePedal1": {
+          "PedalKey": "Pedal_Screecher",
+          "KnobValues": {
+            "Pedal_Screecher_Drive": 95.0,
+            "Pedal_Screecher_Tone": 35.0
+          }
+        }
+      },
+      "PersistentID": "a90b672ef7e94487b25d8e882735e615",
+      "UnlockKey": null,
+      "Volume": -8.0
+    }
+  ],
+  "ModelName": "GRTonePreset",
+  "IterationVersion": 2
+}

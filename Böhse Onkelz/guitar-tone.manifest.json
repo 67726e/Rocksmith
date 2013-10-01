@@ -1,0 +1,41 @@
+{
+  "Entries": [
+    {
+      "BlockAsset": "urn:emergent-world:DLC_Tone_Albacore_Crunch",
+      "Description": "$[-1] ",
+      "ExclusiveBuild": null,
+      "IsDLC": true,
+      "IsPreviewOnlyItem": false,
+      "Key": "Albacore_Crunch",
+      "Name": "Albacore Crunch",
+      "PedalList": {
+        "Cabinet": {
+          "PedalKey": "Cab_4X12_RangerVintageGreen_57_Edge",
+          "KnobValues": {}
+        },
+        "Amp": {
+          "PedalKey": "Amp_Ranger65",
+          "KnobValues": {
+            "Amp_Ranger65_Gain": 88.0,
+            "Amp_Ranger65_Bass": 32.0,
+            "Amp_Ranger65_Mid": 95.0,
+            "Amp_Ranger65_Treble": 80.0
+          }
+        },
+        "PrePedal3": {
+          "PedalKey": "Pedal_VintageFlanger",
+          "KnobValues": {
+            "Pedal_VintageFlanger_Depth": 28.0,
+            "Pedal_VintageFlanger_Speed": 5.0,
+            "Pedal_VintageFlanger_Mix": 12.0
+          }
+        }
+      },
+      "PersistentID": "fbfa5339f3394116bf0252fd03f45681",
+      "UnlockKey": null,
+      "Volume": -10.0
+    }
+  ],
+  "ModelName": "GRTonePreset",
+  "IterationVersion": 2
+}

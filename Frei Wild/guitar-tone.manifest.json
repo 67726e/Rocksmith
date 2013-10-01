@@ -1,0 +1,59 @@
+{
+  "Entries": [
+    {
+      "BlockAsset": "urn:emergent-world:DLC_Tone_FWgit",
+      "Description": "$[-1] ",
+      "ExclusiveBuild": null,
+      "IsDLC": true,
+      "IsPreviewOnlyItem": false,
+      "Key": "FWgit",
+      "Name": "FWgit",
+      "PedalList": {
+        "Amp": {
+          "PedalKey": "Amp_Ranger65",
+          "KnobValues": {
+            "Amp_Ranger65_Gain": 88.0,
+            "Amp_Ranger65_Bass": 65.0,
+            "Amp_Ranger65_Mid": 88.0,
+            "Amp_Ranger65_Treble": 76.0
+          }
+        },
+        "Cabinet": {
+          "PedalKey": "Cab_4X12_Ranger_Condenser_OffAxis",
+          "KnobValues": {}
+        },
+        "LoopPedal1": {
+          "PedalKey": "Pedal_NoiseGate",
+          "KnobValues": {
+            "Pedal_NoiseGate_Attack": 80.0,
+            "Pedal_NoiseGate_Release": 20.0,
+            "Pedal_NoiseGate_Thresh": 15.0
+          }
+        },
+        "LoopPedal3": {
+          "PedalKey": "Pedal_ShredZone",
+          "KnobValues": {
+            "Pedal_ShredZone_Dist": 80.0,
+            "Pedal_ShredZone_Low": 3.0,
+            "Pedal_ShredZone_MidFreq": 50.0,
+            "Pedal_ShredZone_Mid": -4.0,
+            "Pedal_ShredZone_Hi": 2.0
+          }
+        },
+        "PrePedal1": {
+          "PedalKey": "Pedal_Harmonista",
+          "KnobValues": {
+            "Pedal_Harmonista_Mix": 90.0,
+            "Pedal_Harmonista_Tone": 100.0,
+            "Pedal_Harmonista_Pitch1": -3.0
+          }
+        }
+      },
+      "PersistentID": "278315e03e3c48adbad111da5609c0a1",
+      "UnlockKey": null,
+      "Volume": -11.0
+    }
+  ],
+  "ModelName": "GRTonePreset",
+  "IterationVersion": 2
+}
